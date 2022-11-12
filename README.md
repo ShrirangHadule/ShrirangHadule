@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShrirangHadule
-- 🌱 I’m currently doing masters from IIT, Hyderabad. Currently working on image segmentation problem.
+- 🌱 I’m currently doing masters from IIT, Hyderabad. Working on image segmentation problem.
 - 📫 How to reach me : shriranghadule04@gmail.com
 
 <!---
