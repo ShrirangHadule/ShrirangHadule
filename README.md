@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShrirangHadule
-- 👀 I’m interested in Data science
-- 🌱 I’m currently doing masters from IIT, Hyderabad in the intersection of machine learning and chemical engineering
+- 🌱 I’m currently doing masters from IIT, Hyderabad. Currently working on image segmentation problem.
 - 📫 How to reach me : shriranghadule04@gmail.com
 
 <!---
