@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @ShrirangHadule
-- 🌱 I’m currently doing masters from IIT, Hyderabad. Working on image segmentation problem.
+- 🎓 Researching on AI and Computer Vision @ Bioimaging and data analysis lab, IITH
+- 🌱 Pursuing masters from IIT, Hyderabad. 
+- 💻 Currently Working on image segmentation problem.
+- 💡 Open to collaborating on projects and innovative ideas.
 - 📫 How to reach me : shriranghadule04@gmail.com
 
 <!---
